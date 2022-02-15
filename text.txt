@@ -1,0 +1,6 @@
+﻿int b = 10;
+int a = 10;
+if(a > b)
+{
+	Console.WriteLine(b);
+}
